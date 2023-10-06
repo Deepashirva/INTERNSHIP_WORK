@@ -21,4 +21,5 @@ REACT:JSX, virtual DOM, render
 DAY-6
 Basic react program
 
-
+DAY -7
+reactcomponent,props,quize
