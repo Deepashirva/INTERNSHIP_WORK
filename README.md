@@ -23,3 +23,6 @@ Basic react program
 
 DAY -7
 reactcomponent,props,quize
+
+DAY  -8
+component,props,quize
