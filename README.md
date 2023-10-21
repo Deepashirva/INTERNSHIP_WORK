@@ -26,3 +26,6 @@ reactcomponent,props,quize
 
 DAY  -8
 component,props,quize
+SLO for  create form,lifting state up,inheritance
+
+
