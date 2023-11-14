@@ -26,7 +26,9 @@ Reactcomponent,props,quize
 
 DAY-8
 Component,props,quize
-SLO for  create form,lifting state up,inheritance
+SLO for  create form
+Lifting state up
+Inheritance
 
 DAY-9
 Introduction to node js
